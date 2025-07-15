@@ -4,6 +4,7 @@ I'm a current upcoming junior at Segerstrom High School. I specialize in competi
 
 Current Repos:
 MIT 6.100L - Code for problem sets from MITs 6.100L course.
+
 Computer Science Essentials - Code for CSE class problems.
 
 <!---
