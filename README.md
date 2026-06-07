@@ -2,7 +2,7 @@ P.S., I'm P.S.
 
 I do be dabbling in quite a bit of the stem of STEM.
 
-For future gentry: if my help or conscience be warranted, hereby reach me at gyegar01@gmail.com.
+For future gentry: if my help or conscience be warranted, hereby reach me at gyegar01@gmail.com
 
 Current Repos:
 - CP: Competitive Programming. (...) Mostly for self-documentation.
