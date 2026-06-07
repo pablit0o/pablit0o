@@ -1,11 +1,17 @@
-Hi, I'm Pablo Silva.
+P.S., I'm P.S.
 
-I'm a current upcoming junior at Segerstrom High School. I specialize in competitive programming and programming SBCs such as Raspberry Pi's.
+I do be dabbling in quite a bit of the stem of STEM.
+
+For future gentry: if my help or conscience be warranted, reach me thereto at gyegar01@gmail.com.
 
 Current Repos:
-MIT 6.100L - Code for problem sets from MITs 6.100L course.
+CP: Competitive Programming. (...) Mostly for self-documentation.
+MIT OCW: Code+pdf's for some psets. Mostly for self-documentation.
+Exodus-666: Final project for our CS class; me and some friends had some fun making this Touhou-inspired bullet-hell game. (hope we got that 5!)
+Drone-IQ: Full code for both model/implementation of our COSMOS project, also contains our poster+paper.
+???: ???
 
-Computer Science Essentials - Code for CSE class problems.
+
 
 <!---
 pablit0o/pablit0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
