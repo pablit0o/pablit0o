@@ -1,10 +1,10 @@
-P.S., I'm P.S.
+# P.S., I'm P.S.
 
 I do be dabbling in quite a bit of the stem of STEM.
 
 For future gentry: if my help or conscience be warranted, hereby reach me at gyegar01@gmail.com
 
-Current Repos:
+## Current Repos:
 - CP: Competitive Programming. (...) Mostly for self-documentation.
 - MIT OCW: Code+pdf's for some psets. Mostly for self-documentation.
 - Exodus-666: Final project for our CS class; me and some friends had some fun making this Touhou-inspired bullet-hell game. (hope we got that 5!)
