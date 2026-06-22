@@ -2,11 +2,10 @@
 
 I do be dabbling in quite a bit of the stem of STEM.
 
-"Play is the highest form of research."
+"Play is the highest form of research."\n
 \- Albert Einstein
 
 ## Note on Artificial Intelligence:
-_CREATIVITY OVER EFFICIENCY_
 While the mathematics and engineering behind AI is fascinating, (I want to major in this stuff!) I do not think it mixes well with art.
 
 I consider computer science as an art where you can express yourself via means of cognition. I've come across bizarre and extraterrestrial code that coincidentally came from extraordinary people. Point is, there isn't one way to solve a problem! Artificial Intelligence, from its optimized-nature, tends to regurgitate and repeat logical thinking. (dubbed as "mode collapse") How I see it, the beauty in mathematics and coding is how well it allows you to express yourself! Reducing all creative thinking to just one quick and "right" solution undermines the value in solving a problem authentically.
