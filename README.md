@@ -10,7 +10,7 @@ I do be dabbling in quite a bit of the stem of STEM.
 - MIT OCW: (IN-ROGRESS) Code+pdf's for some psets. Mostly for self-documentation.
 - Exodus-666: Final project for our CS class; me and some friends had some fun making this Touhou-inspired bullet-hell game. 
 - Drone-IQ: Full code for both model/implementation of our COSMOS project, also contains our poster+paper.
-- origin: (IN-PROGRESS) Visualizer of mathematical geneaology.
+- MGP-Visualizer: (IN-PROGRESS) Visualizer of mathematical geneaology.
 
 ## Note on Artificial Intelligence:
 While the mathematics and engineering behind AI is fascinating, (I want to major in this stuff!) I do not think it mixes well with art.
