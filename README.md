@@ -2,8 +2,15 @@
 
 I do be dabbling in quite a bit of the stem of STEM.
 
-"Play is the highest form of research."\n
+"Play is the highest form of research."
 \- Albert Einstein
+
+## Current Repos:
+- CP: Competitive Programming. Mostly for self-documentation.
+- MIT OCW: Code+pdf's for some psets. Mostly for self-documentation.
+- Exodus-666: Final project for our CS class; me and some friends had some fun making this Touhou-inspired bullet-hell game. 
+- Drone-IQ: Full code for both model/implementation of our COSMOS project, also contains our poster+paper.
+- mraph: Visualizer of mathematical geneaology.
 
 ## Note on Artificial Intelligence:
 While the mathematics and engineering behind AI is fascinating, (I want to major in this stuff!) I do not think it mixes well with art.
@@ -17,14 +24,6 @@ Maybe it is a privileged perspective to have the resources and time to pursue ST
 There wouldn't be such a controversy in the role of AI if it wasn't nuanced. This brief rant is just my two-cents on the status-quo and I felt it to be important enough to plaster it over my Github front page.
 
 If nothing else, this serves as a preface to my profile. Some of my code (especially in solo-projects) is devoid of comments, hard-to-follow, and likely inefficient. I'm always open to suggestions and explaining parts of my works.
-
-
-## Current Repos:
-- CP: Competitive Programming. Mostly for self-documentation.
-- MIT OCW: Code+pdf's for some psets. Mostly for self-documentation.
-- Exodus-666: Final project for our CS class; me and some friends had some fun making this Touhou-inspired bullet-hell game. 
-- Drone-IQ: Full code for both model/implementation of our COSMOS project, also contains our poster+paper.
-- mraph: Visualizer of mathematical geneaology.
 <!---
 pablit0o/pablit0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
