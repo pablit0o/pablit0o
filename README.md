@@ -1,7 +1,5 @@
 # P.S., I'm P.S.
 
-I do be dabbling in quite a bit of the stem of STEM.
-
 "Play is the highest form of research."
 \- Albert Einstein
 
@@ -11,7 +9,7 @@ For the application/admission folk, welcome to my github! Below are the reposito
 ## Current Repos: (Chronological Order)
 - MGP-Visualizer: (IN-PROGRESS) Visualizer for the Mathematical Genealogy Project (MGP).
 - **Drone-IQ: Full code for both model/implementation of our COSMOS project, also contains our poster+paper.**
-- MIT OCW: (IN-ROGRESS) Code+pdf's for some psets. 
+- MIT OCW: (IN-PROGRESS) Code+pdf's for some psets. 
 - CP: Competitive Programming. 
 - Exodus-666: Final project for our CS class; me and some friends had some fun making this Touhou-inspired bullet-hell game. 
 <!---
